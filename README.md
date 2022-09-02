@@ -1,10 +1,6 @@
-- 👋 Hi, I’m  o  renan
-- 👀 I’m interested in ...Aprender  programaçao 
-- 🌱 I’m currently learning ... A programar as linguagens de programaçao Scrath e JavaScript
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- :v:Olá eu sou o  renan
+- Sou estudante do colegio Marechal Rondon
+- :love_you_gesture:atualmente estou aprendendo a programar as linguagens de programaçao Scrath e JavaScript
+- Meu Email de acesso é renan.ribeiro.rosa@escola.pr.gov.br
 
-<!---
-renanribeirorosa/renanribeirorosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-
